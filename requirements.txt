@@ -6,3 +6,6 @@ logutils==0.3.3
 South==0.8.4
 django-debug-toolbar==1.8
 django-registration
+djangorestframework
+markdown
+django-filter
